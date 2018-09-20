@@ -19,6 +19,9 @@ contributor:
     alias: Bieler, de
     gutenberg_agent_id: '41437'
     url: http://www.gutenberg.org/2009/agents/41437
+covers:
+- cover_type: archival
+  image_path: 52933-h/images/cover.jpg
 creator:
   author:
     agent_name: Flammarion, Camille
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8763
     wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52933#Uranie
 gutenberg_bookshelf:
 - FR Littérature
 - FR Sciences et Techniques
