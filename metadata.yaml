@@ -1,0 +1,51 @@
+_repo: Uranie_52933
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Myrbach-Rheinfeld, Felician, Freiherr von
+    aliases:
+    - Myrbach von Rheinfeld, Felician, Freiherr
+    - Myrbach, Felicien de
+    - Myrbach, Baron (Felicien)
+    - Myrbach, F. de (Felicien)
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '36574'
+    url: http://www.gutenberg.org/2009/agents/36574
+  - agent_name: Gambard
+    gutenberg_agent_id: '41438'
+    url: http://www.gutenberg.org/2009/agents/41438
+  - agent_name: De Bieler
+    alias: Bieler, de
+    gutenberg_agent_id: '41437'
+    url: http://www.gutenberg.org/2009/agents/41437
+creator:
+  author:
+    agent_name: Flammarion, Camille
+    aliases:
+    - Filamaryon, Kamil
+    - Flammarion, Nicolas Camille
+    birthdate: 1842
+    deathdate: 1925
+    gutenberg_agent_id: '8763'
+    url: http://www.gutenberg.org/2009/agents/8763
+    wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Sciences et Techniques
+gutenberg_issued: '2016-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52933'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: Uranie
+url: http://www.gutenberg.org/ebooks/52933
